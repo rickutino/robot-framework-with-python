@@ -11,3 +11,22 @@
 >    $ cd robot-framework-with-python
 * To run the project:
 >    $ python3 -m robot -d ./log  tests/l
+
+## Versioning
+
+1.0.0.0
+
+
+## Authors
+
+* **RICARDO UTINO**: @rickutino (https://github.com/rickutino)
+
+## License
+[MIT License](https://LICENSE.md/)
+
+
+
+
+
+Please follow github and join us!
+Thanks to visiting me and good coding!
